@@ -2,7 +2,7 @@
   "name": "generate-email-address-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bnoctis.github.io/generate-email-address/",
+  "homepage": "https://bnoctis.github.io/generate-email-address",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
